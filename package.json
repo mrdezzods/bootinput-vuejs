@@ -1,0 +1,26 @@
+{
+  "name": "bootinput",
+  "version": "1.0.0",
+  "description": "Bootstrap input components for vuejs with validation, and form-group cascade",
+  "main": "bootinput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neposoft/bootinput-vuejs.git"
+  },
+  "keywords": [
+    "vuejs",
+    "bootstrap",
+    "vuejs",
+    "components",
+    "vuejs-plugin"
+  ],
+  "author": "Vijay Sapkota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neposoft/bootinput-vuejs/issues"
+  },
+  "homepage": "https://github.com/neposoft/bootinput-vuejs#readme"
+}
