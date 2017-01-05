@@ -14,9 +14,7 @@ or just download the package and link the javascript file after your vuejs file.
 ##Components
 
 **NOTE***errors should be an array of errors*   
-eg: ```
-errors = {name:["Name cannot be empty."]}
-```
+eg: ```errors = {name:["Name cannot be empty."]}```
 
 1. `boot-input`: `model,type,value,error,label`  
 eg: `<boot-input type="text" :model.sync="name" :error="errors.name" label="Name"></boot-input>`
